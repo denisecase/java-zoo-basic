@@ -45,3 +45,20 @@ git commit -m "initial commit"
 git push -u origin main
 ```
 
+## Explore
+
+Explore the project. Find:
+
+- .gitignore
+- README.md
+- pom.xml (the data file used by Maven to manage project information)
+- src/main/java
+- src/main/java/edu/nwmissouri/csis ...
+- find the source files
+- verify the app runs
+
+## Maven 
+
+1. Read about the Maven build tool - especially the Maven folder structure & pom.xml.
+2. Using a build tool like Maven allows choices in our IDE. 
+3. Consider exploring other popular Java IDEs such as Intellij, Eclipse, or Visual Studio Code.
